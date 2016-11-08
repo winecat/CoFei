@@ -80,7 +80,7 @@ $(document).ready(function() {
         $('html, body').animate({
                     scrollTop: 0
                 }, 500);
-    }), console.log("© XFeiF 🙋 2015-" + (new Date).getFullYear()),
+    }), console.log("© winecat 🙋 2015-" + (new Date).getFullYear()),
     console.log($('#content').scrollTop());
 });
 
