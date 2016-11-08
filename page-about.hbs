@@ -9,13 +9,16 @@
 <main class="content" role="main" >
     <article class="{{post_class}}">
         <header class="post-header">
+            <a class="back-btn" href="/#content">
+              <i class="camera retro icon"></i>
+            </a>
             <h1 class="post-title">{{title}}</h1>
         </header>
         <section class="post-content">
             {{content}}
         </section>
     </article>
-    {{> "footer"}}
+    {{!--> "footer" --}}
 </main>
 </div>
 {{/post}}
