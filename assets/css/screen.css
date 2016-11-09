@@ -1784,7 +1784,7 @@ ontent img {
    ========================================================================== */
 
 .shot-container:before {
-    content: '「 Life is a journey. Nice to Meet U 」';
+    content: '「 Do What You Like. Like What You Do 」';
     position: absolute;
     top: 50%;
     color: #fff;
@@ -2016,9 +2016,9 @@ ontent img {
 }
 
 
-/*==========puzzle-back-btn========*/
+/*==========cubes-back-btn========*/
 
-.frag-back-btn i.puzzle.icon {
+.frag-back-btn i.cubes.icon {
     position: absolute;
     top: 5px;
     left: 9px;
