@@ -1068,7 +1068,7 @@ body:not(.post-template) .post-title {
     /*margin-left: 8px;
     padding-left: 12px;
     border-left: #d5dbde 1px solid;*/
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     white-space: nowrap;
     font-weight: 600;
 
@@ -2136,7 +2136,7 @@ a.post_container{
     margin-left: 0;
     padding-left: 0;
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     white-space: nowrap;
     width: 100%;
     text-align: center;
@@ -2146,7 +2146,7 @@ a.post_container{
     margin-left: 8px;
     padding-left: 12px;
     text-transform: uppercase;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     white-space: nowrap;
     border-left: #d5dbde 2px solid;
 }
