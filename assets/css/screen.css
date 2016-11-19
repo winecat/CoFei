@@ -1174,7 +1174,7 @@ ontent img {
 }
 .post-content p{
     font-size: 1.8rem;
-    line-height: 2.6rem;
+    line-height: 2.5rem;
     margin-top: 2.0rem;
     color: #333;
 }
@@ -2446,7 +2446,7 @@ aside.read-next-p a{
 
     .post-content{
         min-height: 380px;
-        padding: 20px 22px;
+        : 20px 22px;
         box-shadow: none;
     }
 
